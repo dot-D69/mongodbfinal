@@ -7,8 +7,7 @@ StayEasy is an online platform that allows people to find and book short-term st
 - **Offer Diverse Options:** Provide a wide range of accommodation choices to suit different needs and budgets.
 - **Ensure Safety and Trust:** Create a secure environment for both hosts and guests through verified profiles and reviews.
 
-## Key Features
-- **User Profiles:** Hosts and guests can create profiles, add photos, and share information about themselves.
-- **Property Listings:** Hosts can list their properties with descriptions, photos, prices, and availability calendars.
-- **Search and Filters:** Guests can search for accommodations based on location, price, dates, and amenities.
-- **Booking System:** Simple and secure booking process with instant confirmation and payment options.
+
+
+https://github.com/dot-D69/mongodbfinal/assets/99545615/12411b58-46ce-452b-8614-4c43201b06cd
+
